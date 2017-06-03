@@ -16,3 +16,7 @@
 Decided to finish the FCC Front End Certificate and worked FCC Algorithms.
 
 **Thoughts**: After finishing my Bloc.io capstone I decided I needed something to keep me going on a day to day basis while starting my career. 100 days to code is perfect and should continue to let me grow professionally. Always something new to learn
+
+###Day 2: June 2, 2017
+
+**Todays Progress**: Started the FCC Wikipedia Viewer project - Got ajax working and can get my json data. Will need to work on display tomorrow.
