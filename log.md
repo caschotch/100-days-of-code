@@ -9,6 +9,16 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 5: June 5, 2017
+
+**Today's Progress**
+
+Figured out how to seperate some of the logic for the API to show who is on-line and offline. Will work on finishing out the JS and CSS tomorrow, possibly next 2 days.
+
+**Thoughts**
+
+Even if you do not think you are making progress because nothing seems to be working, at least you tried and won't have to try that 'dead end' again! You never learn anything from not trying...
+
 ### Day 4: June 4, 2017
 
 **Todays Progress**
