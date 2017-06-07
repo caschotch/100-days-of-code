@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 6: June 6, 2017
+
+**Today's Progress**
+
+Almost complete with the Twitch API project through FCC. Have some minor CSS and a issue with URL that maybe a CORS issue but still some troubleshooting to go.
+
 ### Day 5: June 5, 2017
 
 **Today's Progress**
