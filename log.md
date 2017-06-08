@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 7: June 7, 2017
+
+**Today's Progress**
+
+Working on the FCC Twitch API Project - My Design skills are severly lacking...ie I couldnt make a rose look good.
+
 ### Day 6: June 6, 2017
 
 **Today's Progress**
