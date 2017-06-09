@@ -9,11 +9,17 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 8: June 8, 2017
+
+**Today's Progress**
+
+Finished the FCC Twitch API Project - After realizing my Design skills are not...art level I decided that simple styling with odd colors is good for right now. I am fine with just being able to get the logic down instead of worrying if my Color pallet is good or my design is 'user friendly'.
+
 ### Day 7: June 7, 2017
 
 **Today's Progress**
 
-Working on the FCC Twitch API Project - My Design skills are severly lacking...ie I couldnt make a rose look good.
+Working on the FCC Twitch API Project - My Design skills are severely lacking...ie I couldn't make a rose look good.
 
 ### Day 6: June 6, 2017
 
@@ -25,7 +31,7 @@ Almost complete with the Twitch API project through FCC. Have some minor CSS and
 
 **Today's Progress**
 
-Figured out how to seperate some of the logic for the API to show who is on-line and offline. Will work on finishing out the JS and CSS tomorrow, possibly next 2 days.
+Figured out how to separate some of the logic for the API to show who is on-line and off line. Will work on finishing out the JS and CSS tomorrow, possibly next 2 days.
 
 **Thoughts**
 
