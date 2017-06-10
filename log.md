@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 9: June 9, 2017
+
+**Today's Progress**
+
+Completed a couple of FCC Algorithms but stopped at a Fibonacci one as I am not sure how to do the logic yet.
+
 ### Day 8: June 8, 2017
 
 **Today's Progress**
