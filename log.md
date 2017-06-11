@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 10: June 10, 2017
+
+**Today's Progress**
+
+Completed a couple more of the FCC Algorithms but am slowing down because some of these are Math and I havent been in school for over 2 decades so I had to go to Khan Academy and brush up on some explanations...lol
+
 ### Day 9: June 9, 2017
 
 **Today's Progress**
