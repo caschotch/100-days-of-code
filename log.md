@@ -8,6 +8,11 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com) -->
+### Day 11: June 11, 2017
+
+**Today's Progress**
+
+Not much to repost as I have just continued with FCC Algorithms. 
 
 ### Day 10: June 10, 2017
 
