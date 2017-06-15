@@ -8,11 +8,28 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com) -->
+
+### Day 13: June 14, 2017
+
+**Skipped one day**
+_Yes I skipped a day, this is due to my finishing the Bloc.io curriculum and wanted to take a day off._
+
+**Today's Progress**
+
+After taking 1 day off spent 2 hours doing algorithms which was actually needed. Completed the FCC Intermediate Algorithm Scripting portion.
+
+
+### Day 12: June 12, 2017
+
+**Today's Progress**
+
+Break from FCC Algorithms, getting acquainted with Mocha for testing.
+
 ### Day 11: June 11, 2017
 
 **Today's Progress**
 
-Not much to repost as I have just continued with FCC Algorithms. 
+Not much to repost as I have just continued with FCC Algorithms.
 
 ### Day 10: June 10, 2017
 
