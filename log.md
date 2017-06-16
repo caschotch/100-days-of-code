@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 14: June 15, 2017
+
+**Today's Progress**
+
+Back to FCC Algorithms, at Advanced Algorith Scripting....and I got the case of the duh's
+
 ### Day 13: June 14, 2017
 
 **Skipped one day**
