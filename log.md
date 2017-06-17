@@ -9,11 +9,17 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 15: June 16, 2017
+
+**Today's Progress**
+
+Advanced Algorithm Scripting through FCC...Got sidetracked when looking up something and spent 30+ minutes reading up on binary's...that doesn't even pertain to what I was doing.
+
 ### Day 14: June 15, 2017
 
 **Today's Progress**
 
-Back to FCC Algorithms, at Advanced Algorith Scripting....and I got the case of the duh's
+Back to FCC Algorithms, at Advanced Algorithm Scripting....and I got the case of the duh's
 
 ### Day 13: June 14, 2017
 
