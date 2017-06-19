@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 16 & 17: June 17-18, 2017
+
+**Weekends's Progress**
+
+Spent the weekend going over code from Bloc projects and trying to determine what exactly my next step is. Worked on FCC Algorithms also.
+
 ### Day 15: June 16, 2017
 
 **Today's Progress**
