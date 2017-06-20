@@ -9,6 +9,12 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 18: June 19, 2017
+
+**Today's Progress**
+
+Completed some updates and other minor edits on my Website. Completed the Advanced Algorithm Symmetric Difference through FCC, was a head scratcher for some reason.
+
 ### Day 16 & 17: June 17-18, 2017
 
 **Weekends's Progress**
