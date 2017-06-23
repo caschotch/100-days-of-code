@@ -9,6 +9,24 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 21: June 22, 2017
+
+**Today's Progress**
+
+FCC Advanced Algorithms. Completed 'Exact Change' and started 'Inventory Update'.
+
+### Day 20: June 21, 2017
+
+**Today's Progress**
+
+FCC Calculator, trying to find a bug when you realize that the , is actually a . and it took you like 40 minutes to realize that...ugh
+
+### Day 19: June 20, 2017
+
+**Today's Progress**
+
+FCC algorithms everyday is starting to wear thin. Started one of the projects, calculator, in codepen for a change.
+
 ### Day 18: June 19, 2017
 
 **Today's Progress**
