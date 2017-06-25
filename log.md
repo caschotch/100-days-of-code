@@ -9,6 +9,22 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 23: June 24, 2017
+
+**Today's Progress**
+
+FCC Advanced Algorithms all completed.
+
+**Thoughts:**
+
+While I did complete all the Advanced Algorithms I feal that there are more efficient ways to complete them. While I could do them over again I will just try and continue to do 1 Kata on Codewars every day.
+
+### Day 22: June 23, 2017
+
+**Today's Progress**
+
+FCC Advanced Algorithms. Weekend Project is to get through WesBos NodeJS course.
+
 ### Day 21: June 22, 2017
 
 **Today's Progress**
