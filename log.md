@@ -9,6 +9,16 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 24: June 25, 2017
+
+**Today's Progress**
+
+Started WesBos Node.js course
+
+**Thoughts:**
+
+Why is it that a setup of a new project is sometimes overwhelming. I know I can just use setup files they provide but I have to look through every line and at least get a basic understanding. It may be too much or I am going too deep at this stage but it bugs me not to have a global view of the project considering I am not the one that started it from scratch.
+
 ### Day 23: June 24, 2017
 
 **Today's Progress**
