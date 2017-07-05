@@ -9,6 +9,63 @@
 
 **Link to work:** [Calculator App](http://www.example.com) -->
 
+### Day 30: July 4, 2017
+
+**Today's Progress**
+
+FCC Calculator project completed.
+Started on FCC Pomodoro Timer.
+
+**Thoughts**
+
+Had to go to a youtube video to figure this out. Sometimes I am beyond stubborn which can be a good thing. However, when trying to learn something chasing down the wrong road for so long can actually be hurtful in the learning process.
+
+### Day 29: July 3, 2017
+
+**Today's Progress**
+
+FCC Calculator project continued, Added more styling, fixed some layout issues, trying to decide how to approach the CE button or exactly what to do with it.
+
+### Day 28: July 2, 2017
+
+**Today's Progress**
+
+FCC Calculator project continued, behind on the curve and didn't like the way jQuery was looking so deleted it and using regular JS with onclick event. Cant seem to figure out the CE button yet.
+
+**Thoughts:**
+
+Had a mishap which resulted in my missing a few days due to a emergency...ie mistake with liquid that I am allergic too resulted in a couple days missed.
+
+### Day 27: June 28, 2017
+
+**Today's Progress**
+
+FCC Calculator project continued
+
+**Thoughts:**
+
+Thought I could get it done but ran into serious issues. Came to a point that I kept trying to fix something but not thinking it through. Had to stop for now.
+
+### Day 26: June 27, 2017
+
+**Today's Progress**
+
+FCC Calculator project started
+
+**Thoughts:**
+
+Felt that skipping the last of the FCC Front End Web Development wasnt that wise. Decided to finish that before heading through the Node course.
+
+### Day 25: June 26, 2017
+
+**Today's Progress**
+
+Continued WesBos Node.js course
+
+**Thoughts:**
+
+Started down a never ending rabbit hole which, while interesting, didnt help me achieve much more than information. ie I didnt get far into the Nodejs course.
+
 ### Day 24: June 25, 2017
 
 **Today's Progress**
