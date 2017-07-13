@@ -8,6 +8,55 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com) -->
+### Day 36: July 12, 2017
+
+**Today's Progress**
+
+Back to the FCC Pomodoro Timer.
+
+**Thoughts**
+
+I am missing something here. Just plain overlooking it, my console.log is showing me correct, and once I hit the start button it updates it just wont update when I am putting the using the + or - buttons.
+Argh...it's probably really simple but i just can't see it right now.
+
+### Day 35: July 11, 2017
+
+**Today's Progress**
+
+Took a break from FCC Pomodoro Timer. Completed something from the book "Exercises for Programmers" by Brian Hogan.
+
+### Day 34: July 10, 2017
+
+**Today's Progress**
+
+Still at the FCC Pomodoro Timer continues. Cannot seem to handle a pause well with the setInterval that I have declared. doesnt seem to want to remember it.
+
+**Thoughts**
+
+Do I even need a pause or should I just put a start / stop? Isn't that the part of the timer that should be non-negotiable? If you stop before the 25 minutes ( or whatever time you have it set as) then shouldnt you just take your break and start over?
+
+### Day 33: July 9, 2017
+
+**Today's Progress**
+
+Back to the FCC Pomodoro Timer continues....decided on a generic CSS scheme, working on getting the add/subtract buttons to work with the countdown timer
+
+### July 7 - 8, 2017
+
+Not counting these 2 days even though I was actual coding a "homework assignment" for a possible job.
+
+### Day 32: July 6, 2017
+
+**Today's Progress**
+
+FCC Calculator Pomodoro Timer continues....looking at D3.js to display the time graphically
+
+### Day 31: July 5, 2017
+
+**Today's Progress**
+
+Work on the FCC Calculator Pomodoro Timer continues....trying to decide on a style while still figuring out how I can pause and restart with setInterval
+
 
 ### Day 30: July 4, 2017
 
