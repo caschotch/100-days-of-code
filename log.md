@@ -8,6 +8,49 @@
 **Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
 
 **Link to work:** [Calculator App](http://www.example.com) -->
+
+### Day 43: July 19th, 2017
+
+**Today's Progress**
+
+Finished the Udacity "Javascript Testing" course. Seemed short but I can say that I have a basic understanding of Jasmine. Considering I used testing while in Bloc with Ruby/RoR it is basically the same thing.
+
+### Day 42: July 18th, 2017
+
+**Today's Progress**
+
+3rd day with the Udacity "Javascript Testing" course. Had to look up some stuff due to how they were writing code.
+
+### Day 41: July 17th, 2017
+
+**Today's Progress**
+
+Continued with the Udacity "Javascript Testing" course.
+
+### Day 40: July 16, 2017
+
+**Today's Progress**
+
+Decided to take a Free course through Udacity about JavaScript Testing.
+
+### Day 39: July 15, 2017
+
+**Today's Progress**
+
+Researching testing frameworks and learning difference between Unit vs Functional vs Integration testing along with difference between JS Testing frameworks such as Mocha and Jasmine.
+
+### Day 38: July 14, 2017
+
+**Today's Progress**
+
+While refactoring something I introduced a bug that I cannot seem to figure out. Guess it's a good time to try and learn Mocha.
+
+### Day 37: July 13, 2017
+
+**Today's Progress**
+
+Break from the FCC Pomodoro Timer to work on some CSS for my RNG Generator just to see if I can use better organizational skills I learned from work to condense the code.
+
 ### Day 36: July 12, 2017
 
 **Today's Progress**
